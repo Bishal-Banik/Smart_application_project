@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="product_price_color">#FF5722</color> <!-- Example color -->
+    <color name="product_quantity_color">#2196F3</color> <!-- Example color -->
+    <color name="background_color">#FFFFFF</color>
+    <color name="header_text_color">#000000</color>
+    <color name="divider_color">#DDDDDD</color>
+    <color name="Black">#000000</color>
+</resources>

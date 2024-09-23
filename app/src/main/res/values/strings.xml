@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Yum_Express</string>
+    <string name="welcome_to_yum_express">Welcome to Yum Express</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="Login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="e_mail">E-mail</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="contact_no">Contact No</string>
+    <string name="hello_admin">Hello Admin!</string>
+    <string name="insert_product">Insert Product</string>
+    <string name="view_product">View Product</string>
+    <string name="Insert_product">Insert Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="select_image">Select Image</string>
+    <string name="Insert_Product">Insert Product</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="search_the_name_of_a_product_for_updating">Search the name of a product for updating</string>
+    <string name="product_id">Product ID</string>
+    <string name="search">Search</string>
+    <string name="update_product">Update Product</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="search_the_name_of_a_product_for_deleting">Search the name of a product for deleting</string>
+    <string name="cart">Cart</string>
+    <string name="order">Order</string>
+    <string name="available_products">Available Products</string>
+</resources>
